@@ -1,0 +1,16 @@
+html,
+body {
+  font-family: Helvetica;
+}
+
+body {
+  font-size: 15pt;
+}
+
+div#flipbook-box {
+  text-align: center;
+}
+
+img.page {
+  vertical-align: middle;
+}
