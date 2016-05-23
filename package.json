@@ -1,0 +1,23 @@
+{
+  "name": "flipbook-app",
+  "version": "0.0.1",
+  "description": "A web app for animating a series of sequential photos with a timer or user scrubbing interaction.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madma/flipbook-app.git"
+  },
+  "author": "Michael A. Duran",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/madma/flipbook-app/issues"
+  },
+  "homepage": "https://github.com/madma/flipbook-app#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  }
+}
