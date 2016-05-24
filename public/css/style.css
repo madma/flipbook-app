@@ -5,6 +5,7 @@ body {
 
 body {
   font-size: 15pt;
+  max-width: 100%;
 }
 
 div#flipbook-box {
@@ -12,4 +13,5 @@ div#flipbook-box {
 }
 
 img.page {
+  max-width: 100%;
 }
